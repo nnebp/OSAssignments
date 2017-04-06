@@ -1,0 +1,1 @@
+cmd_/media/sf_Google_Drive/TCSS442/asgn2/hello_module/helloModule.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /media/sf_Google_Drive/TCSS442/asgn2/hello_module/helloModule.ko /media/sf_Google_Drive/TCSS442/asgn2/hello_module/helloModule.o /media/sf_Google_Drive/TCSS442/asgn2/hello_module/helloModule.mod.o
